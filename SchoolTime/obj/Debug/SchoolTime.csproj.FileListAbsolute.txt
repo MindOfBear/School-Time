@@ -1,0 +1,11 @@
+D:\VS Projects\SchoolTime\SchoolTime\bin\Debug\SchoolTime.exe.config
+D:\VS Projects\SchoolTime\SchoolTime\bin\Debug\SchoolTime.exe
+D:\VS Projects\SchoolTime\SchoolTime\bin\Debug\SchoolTime.pdb
+D:\VS Projects\SchoolTime\SchoolTime\obj\Debug\SchoolTime.csproj.AssemblyReference.cache
+D:\VS Projects\SchoolTime\SchoolTime\obj\Debug\SchoolTime.csproj.SuggestedBindingRedirects.cache
+D:\VS Projects\SchoolTime\SchoolTime\obj\Debug\SchoolTime.mainWindow.resources
+D:\VS Projects\SchoolTime\SchoolTime\obj\Debug\SchoolTime.Properties.Resources.resources
+D:\VS Projects\SchoolTime\SchoolTime\obj\Debug\SchoolTime.csproj.GenerateResource.cache
+D:\VS Projects\SchoolTime\SchoolTime\obj\Debug\SchoolTime.csproj.CoreCompileInputs.cache
+D:\VS Projects\SchoolTime\SchoolTime\obj\Debug\SchoolTime.exe
+D:\VS Projects\SchoolTime\SchoolTime\obj\Debug\SchoolTime.pdb
